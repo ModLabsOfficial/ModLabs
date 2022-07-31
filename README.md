@@ -16,15 +16,7 @@ Install ModLabs With [ ModLabs Installer ](https://github.com/MikuuModz/ModLabsI
 
 ## Downloaded Using API
 
-You must use Gradle to Uses the app. It's recommended to use Stable Network , though.
-
-There are two build variants:
-
- - one with support for Downloaded from ModLabs, (and only supports Android O and above)
-
- - and one without. Supports Android 5 though.
-
-or use the appropriate build Gradle command.
+You must use Gradle to Uses the app. It's recommended to use Stable Network
 
 ## Contributing
 
