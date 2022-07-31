@@ -1,0 +1,13 @@
+=> AndroidManifest.xml
+=> assets/Installer.apk
+=> assets/ModLabs_Dark.gif
+=> assets/ModLabs_Light.gif
+=> assets/fonts/deja_mono.ttf
+=> assets/fonts/nunito_bold.ttf
+=> assets/fonts/pro.ttf
+=> assets/fonts/prod.ttf
+=> assets/load.gif
+=> res/anim-v21/design_bottom_sheet_slide_in.xml
+=> res/anim-v21/design_bottom_sheet_slide_out.xml
+=> res/anim/abc_fade_in.xml
+=> res/anim/abc_fade_out.xml
