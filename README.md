@@ -8,7 +8,7 @@ ModLabs Is An Application With All The Games With The Mods You Want Games/Apps t
 
 Install ModLabs With [ ModLabs Installer ](https://github.com/MikuuModz/ModLabsInstaller)
 
-![GitHub contributors](https://img.shields.io/github/contributors/ModLabsOfficial/ModLabs) ![GitHub last commit](https://img.shields.io/github/last-commit/ModLabsOfficial/ModLabs) ![Discord server stats](https://img.shields.io/discord/790686719753846785)
+![GitHub contributors](https://img.shields.io/github/contributors/ModLabsOfficial/ModLabs) ![GitHub last commit](https://img.shields.io/github/last-commit/ModLabsOfficial/ModLabs) ![Discord server stats](https://img.shields.io/discord/984140984382263347)
 
 ## Downloaded Using API
 
