@@ -1,7 +1,3 @@
-# OneModz
-ModLabs Is An Application With All The Games With The Mods You Want
-Games/Apps that have been uploaded to OneModz are 100% free from viruses, malware or the like that can threaten the user's device.
-The Uploaded APKs Files Have Been Checked Live By Our OneModz Te
 
 
    [![Join our Discord server!](https://media.discordapp.net/attachments/991069266486919268/993260753538777088/20220704_035916.jpg)](https://discord.gg/WNrPyBUZsE)
@@ -12,7 +8,7 @@ ModLabs Is An Application With All The Games With The Mods You Want Games/Apps t
 
 Install ModLabs With [ ModLabs Installer ](https://github.com/MikuuModz/ModLabsInstaller)
 
-![GitHub contributors](https://img.shields.io/github/contributors/Sketchware-Pro/Sketchware-Pro) ![GitHub last commit](https://img.shields.io/github/last-commit/Sketchware-Pro/Sketchware-Pro) ![Discord server stats](https://img.shields.io/discord/790686719753846785)
+![GitHub contributors](https://img.shields.io/github/contributors/ModLabsOfficial/ModLabs) ![GitHub last commit](https://img.shields.io/github/last-commit/ModLabsOfficial/ModLabs) ![Discord server stats](https://img.shields.io/discord/790686719753846785)
 
 ## Downloaded Using API
 
