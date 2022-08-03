@@ -96,6 +96,8 @@ Wanna chat with us, talk about changes or just hang out? We have a Discord serve
 
 **OR Scan This QR**
 
+![Join Our Discord Server!](https://media.discordapp.net/attachments/991069266486919268/1004446536412962832/August4-124251AM.png)
+
 ## Disclaimer
 
 This mod was not meant for any harmful purposes, such as harming ModLabs; Quite the opposite actually.
